@@ -26,7 +26,7 @@ print('')
 print("--Drag and Drop Depth map Below--")
 
 #from google.colab import files
-file = input("Drag file HERE:-->")
+file = input("Drag file HERE:--> (remove any quotes from the file path)")
 print('the following file is going to be processed:' + ' ' + file)
 #uploaded = files.upload()
 #!pip install numpy-stl
