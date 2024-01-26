@@ -1,5 +1,6 @@
 # depth_map_to_stl
 ## MODIFIED TO RUN LOCALLY!
+### Just download the python script and run it. 
 Batch converts black and white depth maps to STL files. Can be used for CNC routing or 3D printing. 
 
 Example colab at:
